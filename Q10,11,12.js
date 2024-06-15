@@ -3,7 +3,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 // Asharib, 2024-03-05
 // This program prints a personal message.
-let myName = "Rafay";
+let myName = "Junaid Ul Haque Sheikh";
 console.log(`Hello ${myName}, would you like to learn some TypeScript today?`);
 // Question 11: Names: Store the names of a few of your friends in an array called names. Print each person’s name by accessing each element in the list, one at a time.
 let name = ["Ali", "Umer", "Musa"];
