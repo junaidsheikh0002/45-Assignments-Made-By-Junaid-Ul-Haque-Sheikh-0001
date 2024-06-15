@@ -1,15 +1,21 @@
 {
-  "name": "45-questions",
+  "name": "typescript-project00_calculator-github-repo--0001",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.2"
+  },
   "dependencies": {
-    "@types/inquirer": "^9.0.7",
-    "inquirer": "^9.2.19"
+    "docker": "^1.0.0",
+    "fastapi": "^0.0.8",
+    "poetry": "^0.6.29",
+    "python": "^0.0.4"
   }
 }
