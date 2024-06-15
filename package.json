@@ -1,7 +1,6 @@
 {
   "name": "typescript-project00_calculator-github-repo--0001",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,12 +9,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/inquirer": "^9.0.7",
     "@types/node": "^20.14.2"
   },
   "dependencies": {
     "docker": "^1.0.0",
     "fastapi": "^0.0.8",
+    "inquirer": "^8.0.0",
     "poetry": "^0.6.29",
     "python": "^0.0.4"
-  }
+  },
+  "description": ""
 }
