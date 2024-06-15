@@ -14,7 +14,7 @@ guests.forEach(guest => {
 let unableToAttend = "Sir Qasim";
 console.log(`${unableToAttend} : can't make it to dinner.`);
 // Replace the guest
-let newGuest = "Sir Bilal";
+let newGuest = "Sir Junaid Ul Haque Sheikh";
 guests[guests.indexOf(unableToAttend)] = newGuest;
 // New invitations
 guests.forEach(guest => {
